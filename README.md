@@ -15,6 +15,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [2502-sort-the-people](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -24,4 +25,5 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
