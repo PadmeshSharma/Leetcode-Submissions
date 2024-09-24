@@ -33,4 +33,12 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
