@@ -29,6 +29,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0443-string-compression) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,8 +39,13 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
