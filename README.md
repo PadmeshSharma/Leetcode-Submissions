@@ -76,4 +76,20 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
