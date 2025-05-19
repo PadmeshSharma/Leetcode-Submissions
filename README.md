@@ -6,6 +6,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0443-string-compression) |
@@ -70,5 +72,6 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
