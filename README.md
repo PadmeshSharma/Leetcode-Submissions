@@ -95,4 +95,16 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0904-leaf-similar-trees) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
