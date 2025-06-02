@@ -13,6 +13,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2502-sort-the-people](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -112,4 +113,12 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
