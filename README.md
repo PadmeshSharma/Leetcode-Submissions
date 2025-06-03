@@ -11,6 +11,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [0238-product-of-array-except-self](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -120,5 +121,6 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
