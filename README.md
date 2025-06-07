@@ -24,6 +24,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [1319-unique-number-of-occurrences](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [0459-repeated-substring-pattern](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2502-sort-the-people](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +84,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
 | ------- |
