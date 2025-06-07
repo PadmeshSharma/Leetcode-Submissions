@@ -134,4 +134,8 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
