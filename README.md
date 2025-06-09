@@ -92,6 +92,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -106,6 +107,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
@@ -142,4 +144,8 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
