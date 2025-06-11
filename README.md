@@ -12,6 +12,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [0283-move-zeroes](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1319-unique-number-of-occurrences) |
@@ -69,6 +70,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Divide and Conquer
@@ -150,4 +152,8 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
