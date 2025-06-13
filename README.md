@@ -34,6 +34,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | [0345-reverse-vowels-of-a-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
+| [0649-dota2-senate](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2502-sort-the-people](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -90,6 +91,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 | ------- |
 | [0011-container-with-most-water](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
@@ -119,6 +121,7 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
