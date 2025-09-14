@@ -61,12 +61,14 @@ Leetcode problem's code that passed all test cases are pushed to this GitHub rep
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/PadmeshSharma/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
